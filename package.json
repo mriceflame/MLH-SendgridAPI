@@ -1,0 +1,23 @@
+{
+  "name": "mlh-sendgridapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudraco/MLH-SendgridAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudraco/MLH-SendgridAPI/issues"
+  },
+  "homepage": "https://github.com/rudraco/MLH-SendgridAPI#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv": "^8.2.0"
+  }
+}
